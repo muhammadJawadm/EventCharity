@@ -426,7 +426,8 @@ nav {
 .hero-image {
   position: relative;
   height: 500px;
-  background: linear-gradient(135deg, var(--primary-orange), #ffa726, var(--primary-blue));
+  background-image: url(assets/hero-image.jpg);
+  background-size: cover;
   border-radius: 30px;
   overflow: hidden;
   display: flex;
@@ -593,8 +594,8 @@ nav {
 
 .mass-participation-image {
   position: relative;
-  height: 600px;
-  background-image: url("assets/mass-participation-illustration.png");
+  height: 800px;
+  background-image: url("assets/mass-participation-illustration.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -699,7 +700,7 @@ nav {
 .fundraising-platform-image {
   position: relative;
   height: 600px;
-  background-image: url("assets/fundraising-illustration.png");
+  background-image: url("assets/fundraising-illustration.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -934,7 +935,7 @@ nav {
 .case-study-image {
   position: relative;
   height: 500px;
-  background-image: url("assets/case-study.png");
+  background-image: url("assets/case-study.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -990,8 +991,8 @@ nav {
 
 .donations-image {
   position: relative;
-  height: 600px;
-  background-image: url("assets/donations-illustration.png");
+  height: 800px;
+  background-image: url("assets/donations-illustration.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1100,8 +1101,8 @@ nav {
 
 .contact-form-image {
   position: relative;
-  height: 500px;
-  background-image: url("assets/contact-form.png");
+  height: 1000px;
+  background-image: url("assets/contact-form.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
